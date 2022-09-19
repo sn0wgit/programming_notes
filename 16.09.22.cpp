@@ -19,9 +19,10 @@ int main () {
     cout<<"Ievadiet tresas malas garumu"<<endl;
     cin>>z;
 
-    /*if (a <= 0 || b <= 0 || c <= 0){
+    if (a <= 0 || b <= 0 || c <= 0){
         cout<<"Garumi nevar but negativi vai nulle"<<endl;
     } else {
+        //if ((x+y>z) || (y+z>x) || (x+z>y)){cout<<"Eksiste";} else {cout<<"Neeksiste";} Nestrādā
         if (a + b > c) {
             if (a < c || b < c) {cout<<"Eksiste";} else {cout<<"Neeksiste";}
         } else if (b + c > a) {
@@ -29,6 +30,5 @@ int main () {
         } else if (c + a > b) {
             if (c < b || a < b) {cout<<"Eksiste";} else {cout<<"Neeksiste";}
         }
-    }*/
-    if ((x+y>z) || (y=z>x) || (x+z>y)){cout<<"Eksiste";} else {cout<<"Neeksiste";}
+    }
 }
