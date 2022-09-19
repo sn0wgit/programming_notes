@@ -1,2 +1,1 @@
-# programm-ana_r64vsk
-11.DIT, Iaroslav Viazmitin
+# Programmēšanas stundas. 11. DIT, Rīgas 64. vidusskola. Iaroslav Viazmitin.
