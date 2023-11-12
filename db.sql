@@ -1,4 +1,6 @@
 -- Comments in SQL (they don't affect code)
+-- DB Schema:
+-- https://viewer.diagrams.net/index.html?tags={}&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Veterinary Clinic System.drawio#Uhttps://drive.google.com/uc?id=1w3liETwn1Io6PbzRaL9--jVwsjhPqq4P&export=download#{"pageId":"C5RBs43oDa-KdzZeNtuy"}
 CREATE TABLE Owners (
     ID INTEGER NOT NULL,
     Name TEXT,
