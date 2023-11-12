@@ -1,1 +1,1 @@
-# Programmēšanas stundas. 11. DIT, Rīgas 64. vidusskola. Iaroslav Viazmitin.
+# 11.DIT, 12.DIT. Rīgas 64. vidusskola.
